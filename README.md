@@ -67,7 +67,6 @@ docker-realworld-interview-challenges/
 │   └── README.md
 │
 ├── 09-debug-networking/
-│   ├── Dockerfile
 │   ├── docker-compose.yml
 │   └── README.md
 │
