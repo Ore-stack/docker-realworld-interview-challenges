@@ -7,7 +7,7 @@ These challenges simulate **real-world use cases** such as deploying web apps, o
 
 ## 📋 What’s Inside  
 
-This repository contains **13 practical Docker projects**, each with:  
+This repository contains **10 practical Docker projects**, each with:  
 - **Scenario description** – Real-world context of the problem  
 - **Task requirements** – Exact deliverables you must implement  
 - **Solution** – Dockerfiles, `docker-compose.yml`, and other configs  
@@ -38,7 +38,6 @@ docker-realworld-interview-challenges/
 │
 ├── 02-flask-postgres-debugging/
 │   ├── Dockerfile
-│   ├── docker-compose.yml
 │   └── README.md
 │
 ├── 03-go-multistage-debugging/
