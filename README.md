@@ -55,7 +55,6 @@ docker-realworld-interview-challenges/
 │   └── README.md
 │
 ├── 06-flask-postgres-networking/
-│   ├── Dockerfile
 │   ├── docker-compose.yml
 │   └── README.md
 │
