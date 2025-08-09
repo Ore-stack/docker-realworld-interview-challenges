@@ -32,20 +32,50 @@ This repository contains **13 practical Docker projects**, each with:
 
 docker-realworld-interview-challenges/
 │
-├── 01-django-postgres/
+├── 01-flask-debugging/
+│   ├── Dockerfile
+│   └── README.md
+│
+├── 02-flask-postgres-debugging/
 │   ├── Dockerfile
 │   ├── docker-compose.yml
 │   └── README.md
 │
-├── 02-nodejs-multistage/
+├── 03-go-multistage-debugging/
 │   ├── Dockerfile
 │   └── README.md
 │
-├── 03-flask-debugging/
+├── 04-fixing-env-vars-python-app/
+│   ├── Dockerfile
+    ├── docker-compose.yml
+│   ├── nginx.conf
+│   └── README.md
+│
+├── 05-docker-healthcheck-fix/
 │   ├── Dockerfile
 │   └── README.md
 │
-└── ... more challenges ...
+├── 06-flask-postgres-networking/
+│   ├── Dockerfile
+    ├── docker-compose.yml
+│   └── README.md
+│
+├── 07-fix-postgres-data-loss/
+│   ├── docker-compose.yml
+│   └── README.md
+│
+├── 08-go-microservice-buildkit-secrets/
+│   ├── Dockerfile
+│   └── README.md
+│
+├── 09-debug-networking/
+│   ├── Dockerfile
+│   ├── docker-compose.yml
+│   └── README.md
+│
+└── 10-django-postgres-healthcheck/
+    ├── docker-compose.yml
+    └── README.md
 
 
 
@@ -55,7 +85,7 @@ docker-realworld-interview-challenges/
 
 ### 1️⃣ Clone the repo**  
 ```bash
-git clone https://github.com/<your-username>/docker-realworld-interview-challenges.git
+git clone https://github.com/Ore-stack/docker-realworld-interview-challenges.git
 cd docker-realworld-interview-challenges
 ```
 
@@ -102,7 +132,7 @@ Want to add your own real-world Docker challenge?
 
 ### 📬 Connect
 
-💼 LinkedIn – [Your LinkedIn Profile](https://www.linkedin.com/in/oreoluwa-osinowo-98715627b)
+💼 LinkedIn – [Your LinkedIn Profile](https://www.linkedin.com/in/oreoluwa-osinowo-98715627b)  
 🐙 GitHub – [Your GitHub Profile](https://github.com/Ore-stack)
 
 ⸻
