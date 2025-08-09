@@ -83,7 +83,7 @@ docker-realworld-interview-challenges/
 
 ## 🚦 How to Use  
 
-### 1️⃣ Clone the repo**  
+### 1️⃣ Clone the repo  
 ```bash
 git clone https://github.com/Ore-stack/docker-realworld-interview-challenges.git
 cd docker-realworld-interview-challenges
@@ -106,10 +106,10 @@ docker compose up --build
 
 ##  🎯 Who This Repo Is For
 
-**✅ DevOps Engineers** – preparing for containerization interview rounds
-**✅ SREs** – who want to sharpen troubleshooting skills
-**✅ Developers** – aiming to containerize apps effectively
-**✅ Students** – building portfolio projects with Docker
+**✅ DevOps Engineers** – preparing for containerization interview rounds  
+**✅ SREs** – who want to sharpen troubleshooting skills  
+**✅ Developers** – aiming to containerize apps effectively  
+**✅ Students** – building portfolio projects with Docker  
 
 ⸻
 
