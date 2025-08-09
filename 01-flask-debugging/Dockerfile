@@ -1,4 +1,3 @@
-```dockerfile
 FROM python:3.8 
 
 # Set working directory 
@@ -19,4 +18,3 @@ EXPOSE 5000
 
 # Run Flask 
 CMD ["flask", "run"] 
-```
