@@ -47,7 +47,7 @@ docker-realworld-interview-challenges/
 │
 ├── 04-fixing-env-vars-python-app/
 │   ├── Dockerfile
-    ├── docker-compose.yml
+│   ├── docker-compose.yml
 │   ├── nginx.conf
 │   └── README.md
 │
@@ -57,7 +57,7 @@ docker-realworld-interview-challenges/
 │
 ├── 06-flask-postgres-networking/
 │   ├── Dockerfile
-    ├── docker-compose.yml
+│   ├── docker-compose.yml
 │   └── README.md
 │
 ├── 07-fix-postgres-data-loss/
