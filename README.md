@@ -29,7 +29,7 @@ This repository contains **13 practical Docker projects**, each with:
 ---
 
 ## 📂 Repository Structure  
-
+```
 docker-realworld-interview-challenges/
 │
 ├── 01-flask-debugging/
@@ -76,7 +76,7 @@ docker-realworld-interview-challenges/
 └── 10-django-postgres-healthcheck/
     ├── docker-compose.yml
     └── README.md
-
+```
 
 
 ---
