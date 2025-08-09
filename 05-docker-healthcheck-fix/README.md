@@ -1,4 +1,4 @@
-### Fixing a Docker Healthcheck Failure in a Microservice
+# Fixing a Docker Healthcheck Failure in a Microservice
 
 ## Scenario: 
 
