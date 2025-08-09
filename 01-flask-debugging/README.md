@@ -32,6 +32,7 @@ In this Dockerfile:
 
 Fixed Dockerfile
 
+```dockerfile
 FROM python:3.8 
 
 # Set working directory 
@@ -51,7 +52,8 @@ ENV FLASK_APP=app.py \
 EXPOSE 5000 
 
 # Run Flask 
-CMD ["flask", "run"] 
+CMD ["flask", "run"]
+``` 
 ⸻
 
 ### Key Fixes
@@ -67,8 +69,11 @@ Explain the flask environment variables layer
 
 Your Dockerfile includes this instruction:
 
+```dockerfile
 # Set Flask environment variables
 ENV FLASK_APP=app.py \ FLASK_RUN_HOST=0.0.0.0
+```
+
 This single ENV command creates a new image layer that defines two key variables for Flask.
 
 ---
