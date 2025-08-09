@@ -92,7 +92,7 @@ cd docker-realworld-interview-challenges
 ### 2️⃣ Navigate to a challenge folder
 
 ```bash
-cd 01-django-postgres
+cd 01-flask-debugging
 ```
 
 ### 3️⃣ Build and run the container(s)
